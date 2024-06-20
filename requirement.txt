@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+flask
+django
+sqlalchemy
+beautifulsoup4
+pytest
+tensorflow
+keras
+opencv-python
